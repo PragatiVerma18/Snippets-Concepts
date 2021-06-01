@@ -2,6 +2,8 @@
 
 - [Using Tailwind in Production](https://blog.logrocket.com/using-tailwind-css-in-production/)
 - [Purge CSS options](https://tailwindcss.com/docs/optimizing-for-production#purge-css-options)
+- [Purge Tailwind in CRA](https://dev.to/jmhungdev/purging-tailwindcss-without-ejecting-create-react-app-4mef)
+- [Example scritps](https://github.com/StandNote/StandNote.tech)
 
 ### Purging CSS
 - remove unused CSS. It can be part of your development workflow.
