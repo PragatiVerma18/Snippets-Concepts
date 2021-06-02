@@ -1,0 +1,1 @@
+- Convert Chrome Extension to Firefox Addon: https://blog.chosunghyun.com/porting-a-chrome-extension-to-firefox-add-on/
