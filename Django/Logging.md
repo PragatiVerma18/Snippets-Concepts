@@ -61,6 +61,7 @@ Its severity point is **50**.
 > The severity point determines what priority shall be given. The logger will log or store the information when the level is greater than or equal to the log level.
 
 ### Resources for Django
+> [Recommended and used](https://lincolnloop.com/blog/django-logging-right-way/)
 - https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english/#configure-logging
 - https://data-flair.training/blogs/django-logging/
 - https://coralogix.com/blog/python-logging-best-practices-tips/
